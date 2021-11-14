@@ -39,12 +39,12 @@ Responsive
 https://www.nu.nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Algemeen
+<img src="images/screenone.png" width="375px" alt="Hoofd pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Login pagina 
+<img src="images/screentwo.png" width="375px" alt="Login">
  
 </details>
 
