@@ -56,10 +56,13 @@ Login pagina
 <summary>uitwerken na afloop 2e werkgroep</summary>
 
 ### de hele pagina: 
-<img src="images/schets.png" width="375px" alt="breakdown van de hele pagina">
+<img src="images/Schets.png" width="375px" alt="breakdown van de hele pagina">
 
-### Bearkdown van login: 
-<img src="images/schetsLogin.jpg" width="375px" alt="breakdown van een dynamisch deel">
+### Schets login: 
+<img src="images/SchetsLogin.png" width="375px" alt="breakdown van login">
+
+### Dynamisch deel (Menu): 
+<img src="images/Schetdynamisch.png" width="375px" alt="breakdown een dynamisch deel">
 
 </details>
 
@@ -73,7 +76,7 @@ Login pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het koste mij wel wat tijd om echt op te starten met mijn website. Toen ik bezig was ging het wel. In ben begonnen met de header van mijn pagina. Ik heb dit gemaakt met flex box. Ik heb zelf nog wat moeite met flex box, maar meestal lukt het uiteindelijk wel. Toen ik begon met de eerste section kwam ik erachter dat ik een fout had gemaakt met de CSS selectors, daar heb ik een tijd vast gezeten.
 
 
 ### Agenda voor meeting
@@ -81,8 +84,8 @@ samen met je groepje opstellen
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| Opstarten      | Flexbox            | en ik dit    | en dan ik dat    |
+| Flexbox        |                    | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 
