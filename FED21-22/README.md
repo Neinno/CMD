@@ -58,9 +58,6 @@ Login pagina
 ### de hele pagina: 
 <img src="images/Schets.png" width="375px" alt="breakdown van de hele pagina">
 
-### Schets login: 
-<img src="images/SchetsLogin.png" width="375px" alt="breakdown van login">
-
 ### Dynamisch deel (Menu): 
 <img src="images/Schetdynamisch.png" width="375px" alt="breakdown een dynamisch deel">
 
